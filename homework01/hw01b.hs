@@ -1,3 +1,6 @@
+-- CIS 194: Intro to Haskell, homework #1b
+-- http://www.seas.upenn.edu/~cis194/spring13/hw/01-intro.pdf
+
 import System.Environment
 
 -- Simple assertion function for unit testing
