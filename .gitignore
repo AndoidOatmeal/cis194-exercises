@@ -1,4 +1,7 @@
 *.o
 old
 *.hi
+
+# Executables
 hw0??
+hw0?
